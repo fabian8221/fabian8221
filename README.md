@@ -5,7 +5,7 @@
 ## I'm a Full stack developer
 
 - 🌱 I am currently opening new position.
-- 📫 What is the best way to contact me? [Linkedin](linkedin.com/in/fabian-paulino-94314b87)
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/fabian-paulino-94314b87)
 - 😄 Pronouns: He/Him
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabian8221)
